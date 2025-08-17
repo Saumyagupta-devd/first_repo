@@ -3,4 +3,5 @@ add a new line here
 adding again a new for practice
 Try Pole SCM
 edit with jenkin
+new edit
 
